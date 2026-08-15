@@ -19,7 +19,8 @@ This project is a Power BI dashboard created to analyze e-commerce sales and pro
 
 ### Dashboard
 
-The dashboard includes interactive quarterly filters, KPI cards, and charts for sales and profit analysis.
+The dashboard includes interactive quarterly filters, KPI cards, and charts for sales and profit analysis.<img width="1323" height="744" alt="Dashboard" src="https://github.com/user-attachments/assets/db69b84c-f739-47f1-9f3f-6369736c0588" />
+
 
 ### Project File
 
